@@ -8,7 +8,7 @@ A content-based movie recommendation system built with Streamlit and scikit-lear
 
 ## Demo
 
-Live Demo: []()
+Live Demo: [https://rahul-movie-recommendation.streamlit.app/](https://rahul-movie-recommendation.streamlit.app/)
 # Features
 
 - **Smart Search**: Real-time movie suggestions as you type
